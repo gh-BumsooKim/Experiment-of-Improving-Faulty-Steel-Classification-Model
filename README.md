@@ -8,4 +8,6 @@ Experiments with Pytorch-based Model that classified Steel plate faults into 7 t
 
 ## Experiments
 
-- 
+- Optimization : **SGD**, **Momentum**, **AdaGrad**, **RMSProp**, **Adam**(Momentum + RMSProp)
+- Weight Initialization : **Random**, **Xavier**(+Sigmoid), **He**(+ReLU)
+- Activation Function : **Sigmoid**, **Tanh**, **ReLU**,
